@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://casaservice360-gif.github.io/CasaService360/sitemap.xml
